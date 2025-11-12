@@ -87,7 +87,6 @@ case $choice in
     ;;
   2)
     echo -e "${BLUE}Running Google IDX Real VPS...${RESET}"
-    cd
     rm -rf myapp
     rm -rf flutter
     cd vps123
